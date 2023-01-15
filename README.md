@@ -4,13 +4,13 @@ Game files for simple Halloween-themed music maker.
 Created by @akalanoka (code and sound) with graphics by @ilu24 and others.
 
 ---
-### some functionalities:
+### What is this game?
 This is a simple game made in Python in Pygame in the week leading up to Halloween, with sounds created in FL Studio.
 You can click on ghosts to have them sing different notes, creating a unique and spooky melody. 
 The game includes a variety of different ghost characters, each with their own unique sound.
 
 ---
-### how to use our interface:
+### How can I play?
 To get started, simply download the repository and run 'main.py'. 
 All you need is a working computer than can run Python and Pygame. 
 
