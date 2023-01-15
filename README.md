@@ -1,7 +1,7 @@
 # Ghost-Opera
 Game files for simple Halloween-themed music maker.
 
-Created by @akalanoka (code and sound) with graphics by @ilu24 and others.
+Created by @kalanoka (code and sound) with graphics by @ilu24 and others.
 
 ---
 ### What is this game?
